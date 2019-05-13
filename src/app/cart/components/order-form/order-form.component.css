@@ -1,0 +1,9 @@
+.order-form{
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 20%;
+}
+
+mat-list-item, button{
+  margin-top: 15px;
+}
